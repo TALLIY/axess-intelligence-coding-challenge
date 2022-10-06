@@ -1,0 +1,9 @@
+/**
+ * I installed tailview css to be able to use daisy ui
+ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
